@@ -12,7 +12,7 @@ Previouly I have used Github Pages for hosting my personal site, but went away f
 
 The amount of "I have rebooted my blog to this new platform" type posts is really high. Those posts are usually the last thing that was written on the site too! For me this was because I would just get sucked into losing hours of setup with Wordpress. Anyway.. here is another "I have rebooted my blog to this new platform" type post
 
-To start with it is a toolset that I am very familar with. Github/[`git`](https://git-scm.com/)/[markdown](https://www.markdownguide.org/)/[Ruby](https://www.ruby-lang.org/en/). These are all technologies that either have or do currently use in my day to day of work. Plus having the posts be in markdown means that it's just editing a text file and I am able to use [VSCode](https://code.visualstudio.com/) and [VIM](https://vim.org).
+To start with it is a toolset that I am very familar with. Github/[`git`](https://git-scm.com/)/[markdown](https://www.markdownguide.org/)/[Ruby](https://www.ruby-lang.org/en/). These are all technologies that either have or do currently use in my day to day of work. Plus having the posts be in markdown means that it's just editing a text file and I am able to use [VSCode](https://code.visualstudio.com/) and [VIM](https://www.vim.org).
 
 Being able to deploy an update by simply using `git push` is both natural and powerful. In addition to the familiarity I am able to easily roll back changes or revert to a previous version of the site (as long as I use good commits :D)
 
