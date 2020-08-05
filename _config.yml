@@ -27,7 +27,7 @@ url: "http://andrew-schutt.com" # the base hostname & protocol for your site, e.
 github_username:  cartothemax
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
