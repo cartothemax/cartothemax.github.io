@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snakes on the Browser!"
+title:  "Pong like it's 1978"
 date:   2020-08-01 13:06:02 -0500
 categories: js javascript archive update
 ---
@@ -20,7 +20,7 @@ Player 2: <div id='playertwo'>0</div>
 <button style="margin-top: 50%;" onclick=startGame()>Start Game?</button>
 </div>
 <canvas id="gameBoard" style="width: 500px; height: 500px; visibility: none;">
-    Your browser doesn't support canvas
+Your browser doesn't support canvas
 </canvas>
 <p>
 Player 1 controls:<br> up -> W<br> down -> S
@@ -29,7 +29,7 @@ Player 1 controls:<br> up -> W<br> down -> S
 Player 2 controls:<br> up -> O<br> down -> K
 </p>
 </div>
-<script src="js/paddle.js" type="text/javascript"></script>
-<script src="js/ball.js" type="text/javascript"></script>
-<script src="js/gameBoard.js" type="text/javascript"></script>
-<script src="js/pong.js" type="text/javascript"></script>
+<script src="../../../../../../paddle.js" type="text/javascript"></script>
+<script src="../../../../../../ball.js" type="text/javascript"></script>
+<script src="../../../../../../gameBoard.js" type="text/javascript"></script>
+<script src="../../../../../../pong.js" type="text/javascript"></script>
