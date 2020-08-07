@@ -19,7 +19,7 @@ window.onload = function()
     canvas.width = 204;
     canvas.height = 224;
 
-    var body = document.getElementsByTagName('body')[0];
+    var body = document.getElementById('entry');
     body.appendChild(canvas);
 
     // Add the snake
@@ -42,7 +42,7 @@ window.onload = function()
         }
     });
 
-    function drawGame() 
+    function drawGame()
     {
         // Clear the canvas
         ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -70,7 +70,7 @@ window.onload = function()
 
                 // Check that it's not out of bounds. If it is show the game over popup
                 // and exit the function.
-                if (snake[0].x < 0 || 
+                if (snake[0].x < 0 ||
                     snake[0].x >= 20 ||
                     snake[0].y < 0 ||
                     snake[0].y >= 20) {
@@ -85,7 +85,7 @@ window.onload = function()
                     score += 10;
                     map = generateFood(map);
 
-                    // Add a new body piece to the array 
+                    // Add a new body piece to the array
                     snake.push({ x: snake[snake.length - 1].x, y: snake[snake.length - 1].y });
                     map[snake[snake.length - 1].x][snake[snake.length - 1].y] = 2;
 
@@ -94,7 +94,7 @@ window.onload = function()
                     if ((score % 100) == 0) {
                         level += 1;
                     }
-                
+
                 // Let's also check that the head is not hitting other part of its body
                 // if it does, we also need to end the game.
                 } else if (map[snake[0].x][snake[0].y] === 2) {
@@ -127,18 +127,18 @@ window.onload = function()
                     ctx.fillRect(x * 10, y * 10 + 20, 10, 10);
                 } else if (map[x][y] === 2) {
                     ctx.fillStyle = 'orange';
-                    ctx.fillRect(x * 10, y * 10 + 20, 10, 10);          
+                    ctx.fillRect(x * 10, y * 10 + 20, 10, 10);
                 }
             }
         }
-        
+
         if (active) {
             setTimeout(drawGame, speed - (level * 50));
         }
     }
 
 
-    function drawMain() 
+    function drawMain()
     {
         ctx.lineWidth = 2; // Our border will have a thickness of 2 pixels
         ctx.strokeStyle = 'black'; // The border will also be black
@@ -158,7 +158,7 @@ window.onload = function()
         // Generate a random position for the rows and the columns.
         var rndX = Math.round(Math.random() * 19),
             rndY = Math.round(Math.random() * 19);
-        
+
         // We also need to watch so as to not place the food
         // on the a same matrix position occupied by a part of the
         // snake's body.
@@ -166,7 +166,7 @@ window.onload = function()
             rndX = Math.round(Math.random() * 19);
             rndY = Math.round(Math.random() * 19);
         }
-        
+
         map[rndX][rndY] = 1;
 
         return map;
@@ -183,7 +183,7 @@ window.onload = function()
         while ((rndX - snake.length) < 0) {
             rndX = Math.round(Math.random() * 19);
         }
-        
+
         for (var i = 0; i < snake.length; i++) {
             snake[i] = { x: rndX - i, y: rndY };
             map[rndX - i][rndY] = 2;
@@ -202,12 +202,12 @@ window.onload = function()
 
         ctx.fillStyle = 'black';
         ctx.font = '16px sans-serif';
-        
+
         ctx.fillText('Game Over!', ((canvas.width / 2) - (ctx.measureText('Game Over!').width / 2)), 50);
 
         ctx.font = '12px sans-serif';
 
         ctx.fillText('Your Score Was: ' + score, ((canvas.width / 2) - (ctx.measureText('Your Score Was: ' + score).width / 2)), 70);
-        
+
     }
 };
