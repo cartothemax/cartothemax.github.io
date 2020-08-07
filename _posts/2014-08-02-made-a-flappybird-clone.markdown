@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flappy Bird with Phaser"
-date:   2020-08-02 13:06:02 -0500
+date:   2014-08-02 13:06:02 -0500
 categories: js javascript archive update
 ---
 
