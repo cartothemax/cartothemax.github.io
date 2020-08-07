@@ -11,23 +11,18 @@ Hello again, I have created another game using Javascript. This time I created p
 My reasoning for learning this time was to use good coding practices associated with Javascript using the [constructor pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript). This also introduced me to [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) and other [asynchronous](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests) topics within Javascript.
 
 Here is a copy of my version of the game.
-
 <div>
+<p>Player 1 controls: up -> "W" down -> "S"</p>
+<p>Player 2 controls: up -> "O" down -> "K"</p>
 Player 1: <div id='playerone'>0</div>
 Player 2: <div id='playertwo'>0</div>
 <div id="startMenu" style="background-color: black; position: absolute; text-align: center; width: 500px; height: 500px; visibility: visible;">
 <h1 style="color: white;">PongJS</h1>
-<button style="margin-top: 50%;" onclick=startGame()>Start Game?</button>
+<button style="margin-top: 50%;" onclick="startGame()">Start Game?</button>
 </div>
 <canvas id="gameBoard" style="width: 500px; height: 500px; visibility: none;">
-Your browser doesn't support canvas
+    Your browser doesn't support canvas
 </canvas>
-<p>
-Player 1 controls:<br> up -> W<br> down -> S
-</p>
- <p>
-Player 2 controls:<br> up -> O<br> down -> K
-</p>
 </div>
 <script src="../../../../../../paddle.js" type="text/javascript"></script>
 <script src="../../../../../../ball.js" type="text/javascript"></script>
