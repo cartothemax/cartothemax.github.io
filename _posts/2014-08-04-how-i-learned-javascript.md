@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I Learned Javascript"
-date:   2014-08-04 13:06:02 -0500
+date:   2014-08-04 13:08:02 -0500
 categories: js javascript archive update
 ---
 **NOTE:** This is an older post that I pulled over from when I first was learning JS some 6 years ago to first teach myself modern web development.
@@ -16,7 +16,7 @@ So, anyway. I finished up the jQuery track and at that point didn’t know a lic
 ## Online Resources
 Now, back to Codecademy. I went through the Javascript track on this site and learned the basics of creating Javascript. The most useful part was practicing objects with Javascript and learning the available tools within the language.
 
-Throughout taking courses on Codecademy I used the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) as a reference. One of the best documentations of the language that I have found. I used the site quite often while I wrote both [SnakeJS]({{ site.baseurl }}{% post_url 2014-08-01-made-a-JS-snake-game %}) and [PongJS]({{ site.baseurl }}{% post_url 2014-08-03-made-a-js-pong-game %})
+Throughout taking courses on Codecademy I used the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) as a reference. One of the best documentations of the language that I have found. I used the site quite often while I created both [SnakeJS](https://github.com/cartothemax/snakejs) and [PongJS](https://github.com/cartothemax/pongjs)
 
 Another site that has proven invaluable for me is [jsfiddle.net](https://jsfiddle.net).  JSFiddle helps for troubleshooting problems that for the life of me I couldn’t figure out why it just wouldn’t run (spoiler: it was a semicolon).  More then that though it was a powerful sandbox that outclasses the one used within Codecademy curriculum.
 ## Books

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snakes on the Browser!"
-date:   2014-08-01 13:06:02 -0500
+date:   2014-08-01 13:07:02 -0500
 categories: js javascript archive update
 ---
 **NOTE:**This was one of the first things I ever created on the web and is also an old post from 2014 according to the [repo history](https://github.com/cartothemax/snakejs/tree/master).
