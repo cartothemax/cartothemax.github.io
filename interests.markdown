@@ -11,4 +11,4 @@ Sharing knowledge and ideas is one of the fundamental pieces of software develop
 Bicycling is my preferred way to stay in shape and commute. No matter if it's snowy and freezing or sweltering and boiling. From long endurance rides to single track it's all fun. Come check me out on [Strava](https://www.strava.com/athletes/62126167)
 
 # Beer
-I enjoy a beer (especially after cycling). Discovering new breweries is a favorite pastime. We are lucky here in Des Moines with a bunch of high quality options to choose from. Here is my [Untappd](https://untappd.com/user/cartothemax)
+I enjoy a beer (especially after cycling). Discovering new breweries is a favorite pastime. We are lucky here in Des Moines with a bunch of high quality options to choose from. Here is my [Untappd](https://untappd.com/user/andrew-schutt)

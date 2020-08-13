@@ -5,7 +5,7 @@ date:   2014-08-03 13:06:02 -0500
 categories: js javascript archive update
 ---
 
-**NOTE:**This was one of the first things I ever created on the web and is also an old post from 2014 according to the [repo history](https://github.com/cartothemax/pongjs/tree/master).
+**NOTE:**This was one of the first things I ever created on the web and is also an old post from 2014 according to the [repo history](https://github.com/andrew-schutt/pongjs/tree/master).
 Hello again, I have created another game using Javascript. This time I created pong!
 
 My reasoning for learning this time was to use good coding practices associated with Javascript using the [constructor pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript). This also introduced me to [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) and other [asynchronous](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests) topics within Javascript.
