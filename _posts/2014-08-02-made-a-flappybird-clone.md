@@ -5,7 +5,7 @@ date:   2014-08-02 13:06:02 -0500
 categories: js javascript archive update
 ---
 
-**NOTE:**This was one of the first things I ever created on the web and is also an old post from 2014 according to the [repo history](https://github.com/andrew-schutt/snakejs/tree/master).
+**NOTE:**This was one of the first things I ever created on the web and is also an old post from 2014 according to the [repo history](https://github.com/andrew-schutt/flappbirdclone/tree/master).
 
 Came across this powerful Javascript library that helps you create 2D games called Phaser. A [short guide](https://phaser.io/tutorials/making-your-first-phaser-game) on the Phaser site will help get you started.
 
