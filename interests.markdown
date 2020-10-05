@@ -10,5 +10,8 @@ Sharing knowledge and ideas is one of the fundamental pieces of software develop
 # Bicycling
 Bicycling is my preferred way to stay in shape and commute. No matter if it's snowy and freezing or sweltering and boiling. From long endurance rides to single track it's all fun. Come check me out on [Strava](https://www.strava.com/athletes/62126167)
 
+# Tunes
+Always trying to find and listen to new music. My favorite online radio is [SomaFM](https://somafm.com/). You can checkout what I am listening to here at [Spotify](https://open.spotify.com/user/teul8rysv075nzkcevk3nlh3y?si=BNfuB4lESHW172QZvAFeZA)
+
 # Beer
 I enjoy a beer (especially after cycling). Discovering new breweries is a favorite pastime. We are lucky here in Des Moines with a bunch of high quality options to choose from. Here is my [Untappd](https://untappd.com/user/andrew-schutt)
