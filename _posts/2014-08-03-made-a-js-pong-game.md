@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pong like it's 1978"
-date:   2014-08-03 13:06:02 -0500
+date:   2014-08-03 13:06:02
 categories: js javascript archive update
 ---
 

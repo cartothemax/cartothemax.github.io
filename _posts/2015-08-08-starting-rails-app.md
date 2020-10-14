@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting Up a New Rails App"
-date:   2014-08-08 13:08:02 -0500
+date:   2014-08-08 13:08:02
 categories: ruby rails archive update
 ---
 ## Install Ruby

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why use Github Pages for a site?"
-date:   2020-08-05 15:56:02 -0500
+date:   2020-08-05 15:56:02
 categories: jekyll update tech
 ---
 This is now the third version of a personal site for me. Or is it the fourth? Either way I have thrown and built from scratch my personal website multiple times now.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I Learned Javascript"
-date:   2014-08-04 13:08:02 -0500
+date:   2014-08-04 13:08:02
 categories: js javascript archive update
 ---
 **NOTE:** This is an older post that I pulled over from when I first was learning JS some 6 years ago to first teach myself modern web development.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beautiful Ruby"
-date:   2014-08-19 13:06:02 -0500
+date:   2014-08-19 13:06:02
 categories: ruby update
 ---
 
