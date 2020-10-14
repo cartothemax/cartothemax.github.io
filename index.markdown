@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background:
+background: 'assets/images/jester-park-south.jpg'
 ---
