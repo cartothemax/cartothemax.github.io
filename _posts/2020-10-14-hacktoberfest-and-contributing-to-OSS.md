@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hacktoberfest and Contributing to Open Source Software"
-date:   2020-08-05 15:56:02
+date:   2020-10-14 15:56:02
 categories: oss tech
 ---
 In the spirit of October and the annual [Hacktoberfest](https://hacktoberfest.digitalocean.com/) celebration I wanted to share my experience and thoughts around contributing to Open Source Software.
