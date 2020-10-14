@@ -28,7 +28,7 @@ github_username:  andrew-schutt
 twitter_username: andrew_schutt11
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-target-blank
