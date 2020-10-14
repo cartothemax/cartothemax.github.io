@@ -10,6 +10,7 @@ show_downloads:   false
 
 # Build settings
 theme:              jekyll-theme-clean-blog
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
