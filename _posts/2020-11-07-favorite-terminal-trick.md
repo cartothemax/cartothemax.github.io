@@ -34,3 +34,5 @@ Here is an example of "grepping your history". This example, searching for the [
 What is happening here is that `history` returns a long list of all the commands you have used from your terminal. That output is "piped" into the `grep` command that then performs a search for the provided pattern. In this case I simply searched for "jekyll". You could try it out with `cd` or `ls` to try it out (`history | grep cd`).
 
 I will often `grep` my history for complex commands that I once in a blue moon, commands that for some reason that day I just can't get _quite_ right, to search through different usages of a command, and more!
+
+This is such a great example of the "linux way" in which small flexible tools can be combined in powerful and undiscovered utility. A powerful lesson for anyone that writes software. Try to create modular code that solves a single problem well and easily able to interfaced with.
