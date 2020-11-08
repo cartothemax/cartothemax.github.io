@@ -25,7 +25,7 @@ def method_declaration(string_arg)
 end
 ```
 
-Although it looks as though it won’t return a value this method will return the upcased version of the argument string that is passed in. The last evaulated expression is the return value for methods. Makes for less code and less cluttered as well. Often times you will find yourself composing methods in domain specific meaningful ways.
+Although it looks as though it won’t return a value this method will return the upcased version of the argument string that is passed in. The last evaluated expression is the return value for methods. Makes for less code and less cluttered as well. Often times you will find yourself composing methods in domain specific meaningful ways.
 
 ## Expression calls
 
@@ -58,4 +58,4 @@ end
 
 Little more flashiness going on here. First we create an Array populated with the numbers 1 through 10 and then pass the message .each in order to invoke the loop. Within the loop we call puts with the argument of item (puts is a type of Ruby print statement) to display all the items in the Array collection. Kind of a mouthful to type that up in plain English compared to Ruby…
 
-Hopefully this quick little intro introduced some of the fundamentals of programming that can be done with Ruby. Sometime I will need to touchbase on the Object Oriented principles of Ruby.
+Hopefully this quick little intro introduced some of the fundamentals of programming that can be done with Ruby. Sometime I will need to touch base on the Object Oriented principles of Ruby.
