@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: andrew-schutt.com
+Token: ac9bba783cc97110647f0cd5afd4be82d0b949b875e973b3c9dc53b1b0f56881
