@@ -17,8 +17,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-include:
-  - ".well_known"
+include: [".well-known"]
 
 defaults:
   - scope:
